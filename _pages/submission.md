@@ -8,4 +8,7 @@ permalink: /submission
 
 # Submission.
 
-Please submit your full paper via this link: [submission link](#)
+This conference only accepts abstracts of current work.
+Abstracts should be written in English and be between300 and 500 words in length.
+The deadline for abstract submissions is October 30,2025. 
+Please submit your abstract via email to **tsky@swjtu.edu.cn**

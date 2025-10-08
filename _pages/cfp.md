@@ -8,46 +8,44 @@ permalink: /cfp
 
 # call for paper
 
-**Theme:** The Greening, Reliability and Security of Global Maritime Transportation and Logistics
+**Theme:** The conference will be based on primary theme of “Supply Chain 5.0: AI-Driven Innovation inManufacturing Supply Chain, Sea-Rail JointTransportation, Sustainability, and Green Logistics amidst De-Globalization: Empowering International Trade and Logistics”
 
-Automation has become an indispensable characteristic inherent in ports, which are key nodes of the global logistics network. In recent years, with the development of Artificial Intelligence (AI) technologies, smart port and shipping are attracting more and more attention from both researchers and practitioners. The applied AI technologies will not only improve the performance of existing maritime logistics network, but also upgrade the potential of new generation maritime system. In addition, the maritime systems may explore new opportunities and challenges of a more comprehensive and tailored cooperation with smart supply chains.  
+**In the following tracks, but are not limited to:**
 
-**Topics of interest include, but not limited to:**
+**SUPPLY CHAIN INTEGRATION AND RESILIENCE**
+- SUSTAINABLE LOGISTIC NETWORK DESIGN
+- DIGITALIZED SYSTEM AND TRACEABILITY
+- NEW AND EMERGING TECHNOLOGIES FOR URBAN LOGISTICS
+- SUPPLY CHAIN FLEXIBILITY THROUGH ARTIFICIAL INTELLIGENCE
+- GREEN LOGISTICS AND TRANSPORT PROCESSES
+- HUMANITARIAN SUPPLY CHAIN AND LEAN PRINCIPLES
+- MANUFACTURING SUPPLY CHAIN INNOVATIVE ORGANIZING
+  
+**MARITIME TRANSPORT AND LOGISTICS MANAGEMENT**
+- DIGITALIZATION AND DECARBONIZATION IN MARITIME TRANSPORT AND LOGISTICS
+- GLOBAL LOGISTICS DISTRIBUTION CENTER ALONG BRI
+- SMART PORT DEVELOPMENT
+- SUSTAINABLE DEVELOPMENT OF BRI
+- OPTIMIZATION MODEL OF MULTIMODAL TRANSPORTATION
+- AI-BASED RESEARCH ISSUES IN THE SHIPPING AND PORT SECTOR
+- GREEN SHIPPING AND DIGITAL CORRIDORS
 
- <ul>                
-<li>Events’ impacts on economic globalization and global industrial chain and the supply chain</li>
-<li>Economic implications of BRI Regionalism versus Multilateralism</li>
-<li>The future position of container hub ports in Asia</li>
-<li>The impact of regional economy and culture on the logistics and supply chains in the BRI</li>
-<li>Integration of Asia-Euro shipping liner and China Railway Express Liner</li>
-<li>Multimodal international trade transportation coordination</li>
-<li>Comparison of Reliabilities of shipping liners between Pacific and Indian oceans</li>
-<li>The role of information technology in shipping and port logistics</li>
-<li>The complex network of maritime terminals, inland ports, cross-border corridors</li>
-<li>The network of free trade zones in the BRI</li>
-<li>Sustainability issues along the Belt and Road Country</li>
-<li>Maritime transportation and logistics competition and efficiency</li>
-<li>Digitalization of shipping transportation: policy and practice </li>
-<li>Global sourcing and production networks</li>
-<li>Data analytics in global logistics and supply chain networks</li>
-<li>Social impact of shipping logistics and political economy related to BRI</li>
-<li>Maritime security international relations</li>
-<li>Big data and data mining in logistics and supply chain management</li>
-<li>Internet of Things (IoT) in logistics and supply chain management</li>
-<li>Infrastructure for supply chain/ transportation/energy</li>
-<li>Impacts of the COVID-19 on maritime transportation and logistics</li>
-<li>Decarbonization of maritime industry</li>
-<li>Green shipping corridors in tandem with decarbonization and digitalization</li>
-<li>Greening the Belt and Road</li>
-<li>Green investment for supply chain</li>
-<li>Challenges and opportunities in Cruise shipping in the post-COVID-19 era</li>
-         </ul>       
+**DIGITAL BUSINESS TRANSFORMATIONS**
+- DIGITAL STRATEGY AND INNOVATION
+- DATA ANALYTICS AND DECISION-MAKING
+- BLOCKCHAIN TECHNOLOGY AND BUSINESS SOLUTIONS
+- ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND BLOCKCHAIN INTEGRATION
 
-### Your Paper, Your Way: There are no strict formatting requirements.
 
-### Conference key due dates:
-1. Submission of extended abstracts: by 15 July 2023 to wushanhua@nbu.edu.cn ; chengjiannan@nbu.edu.cn ; or chendongxu1@nbu.edu.cn
-1. Acceptance of the extended abstracts: by 30 July 2023 (* Invitation letters will be issued for applying for entry visa for foreign participants.)
-1. Submission of full papers (only for applying for special issues): by 15 Oct. 2023
+### Template：
+- [Abstract Template](/download/Abstract_Template.docx)
+- [Full Paper Template](/download/Full Paper_Template.docx)
+
+
+### Conference Key Dates：
+1. Abstract submission deadline: October 30, 2025.
+2. Registration deadline: November 15, 2025.
+3. Conference dates: November 28–30, 2025.
+
 
 

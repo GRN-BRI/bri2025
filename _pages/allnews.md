@@ -1,7 +1,6 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CIEG at Zhengzhou University."
 sitemap: false
 permalink: /allnews.html
 ---
