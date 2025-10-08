@@ -8,5 +8,5 @@ permalink: /visa
 
 # Visa
 
-
-[Visa apply link](#)
+[//]: # ()
+[//]: # ([Visa apply link]&#40;#&#41;)
