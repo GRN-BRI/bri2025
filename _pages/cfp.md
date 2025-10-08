@@ -38,8 +38,8 @@ permalink: /cfp
 
 
 ### Template：
-- [Abstract Template](/download/Abstract_Template.docx)
-- [Full Paper Template](/download/Full Paper_Template.docx)
+- [Abstract Template](/assets//download/Abstract_Template.docx)
+- [Full Paper Template](/assets//download/Full Paper_Template.docx)
 
 
 ### Conference Key Dates：
