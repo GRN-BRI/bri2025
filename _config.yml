@@ -7,9 +7,9 @@
 
 # Site settings
 title: Annual conference of GRN-BRI
-email: y.j.zhou.g@gmail.com
+email: tsky@swjtu.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
- The Computer and Industrial Engineering Group; Yanjie Zhou; Zhengzhou University; Pusan National University.
+  The 10th Global Research Network-Belt and Road Initiative (GRN-BRI)
 baseurl: "bri2025"
 url: "https://grn-bri.github.io/"
 
