@@ -8,11 +8,20 @@ permalink: /registeration
 
 # Registration
 To participate in the conference, registration must becompleted through the on-site payment. 
- 
-1. Scholars / Enterprises /Government / OtherRepresentatives	2000 RMB (US$300)
-2. Students	1300 RMB (US$200)
 
- 
+
+| Particulars | US $ | RMB |
+| :--- | :--- | :--- |
+| Scholars / Enterprises / Government / Other Representatives | 300 | 2000 |
+| Students | 200 | 1300 |
+
+**Agenda:**
+
+| Dates | Activity |
+| :--- | :--- |
+| 2025.11.28 | Registration |
+| 2025.11.29 | Main session / Parallel session |
+| 2025.11.30 | Parallel session / Industry visit |
  
 
 
