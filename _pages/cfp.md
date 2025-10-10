@@ -36,6 +36,9 @@ permalink: /cfp
 - BLOCKCHAIN TECHNOLOGY AND BUSINESS SOLUTIONS
 - ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND BLOCKCHAIN INTEGRATION
 
+**The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals,
+such as Transport Policy, Maritime Policy & Management, Sustainability, and the International Journal of Logistics Management after a rigorous review process.**
+
 
 ### Template：
 - [Abstract Template](/assets//download/Abstract_Template.docx)
@@ -43,9 +46,9 @@ permalink: /cfp
 
 
 ### Conference Key Dates：
-1. Abstract submission deadline: October 30, 2025.
-2. Registration deadline: November 15, 2025.
-3. Conference dates: November 28–30, 2025.
+1. Abstract submission deadline: **October 30, 2025.**
+2. Registration deadline: **November 15, 2025.**
+3. Conference dates: **November 28–30, 2025.**
 
 
 

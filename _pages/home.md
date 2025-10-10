@@ -14,8 +14,11 @@ international trade, and supply chain [https://grn-bri.github.io/](https://grn-b
 is one of the serial international conferences, industry seminars, and training workshops that disseminate the latest
 research and strategic insights to enhance policy-making and support economic development.
 
-GRN-BRI 2025 will be hold by the Tangshan Institute of Southwest Jiaotong
-University, Hebei Province, China at November 28–30, 2025
+GRN-BRI 2025 will be hold by the **Tangshan Institute of Southwest Jiaotong
+University**, Hebei Province, China at **November 28–30, 2025**
+
+The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals,
+such as **Transport Policy, Maritime Policy & Management, Sustainability, and the International Journal of Logistics Management** after a rigorous review process.
 
 
 
@@ -27,8 +30,8 @@ University, Hebei Province, China at November 28–30, 2025
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>  
         <li data-target="#carousel" data-slide-to="4"></li>  
-        <li data-target="#carousel" data-slide-to="5"></li>  
-        <li data-target="#carousel" data-slide-to="6"></li>          
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -39,6 +42,18 @@ University, Hebei Province, China at November 28–30, 2025
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/1-2.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/1-3.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/1-4.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/1-5.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/1-6.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
