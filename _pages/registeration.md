@@ -13,7 +13,7 @@ To participate in the conference, registration must becompleted through the on-s
 | Particulars &nbsp;|&nbsp; US $ | RMB |
 | :--- | :--- | :--- |
 | Scholars / Enterprises /<br/> Government / Other <br/>Representatives &nbsp;|&nbsp; 300 | 2000 |
-| Students &nbsp;|&nbsp; 200 | 1300 |
+| Students &nbsp;|&nbsp; 200 | 1300 |/<br/> /<br/> 
 
 
 
