@@ -10,18 +10,20 @@ permalink: /registeration
 To participate in the conference, registration must becompleted through the on-site payment. 
 
 
-| Particulars | US $ | RMB |
+| Particulars &nbsp;|&nbsp; US $ | RMB |
 | :--- | :--- | :--- |
-| Scholars / Enterprises /<br/> Government / Other <br/>Representatives | 300 | 2000 |
-| Students | 200 | 1300 |
+| Scholars / Enterprises /<br/> Government / Other <br/>Representatives &nbsp;|&nbsp; 300 | 2000 |
+| Students &nbsp;|&nbsp; 200 | 1300 |
+
+
 
 **Agenda:**
 
-| Dates | Activity |
+| Dates &nbsp;|&nbsp; Activity |
 | :--- | :--- |
-| 2025.11.28 | Registration |
-| 2025.11.29 | Main session / Parallel session |
-| 2025.11.30 | Parallel session / Industry visit |
+| 2025.11.28 &nbsp;|&nbsp; Registration |
+| 2025.11.29 &nbsp;|&nbsp; Main session / Parallel session |
+| 2025.11.30 &nbsp;|&nbsp; Parallel session / Industry visit |
  
 
 
