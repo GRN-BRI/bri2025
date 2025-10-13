@@ -19,13 +19,13 @@ University**, Hebei Province, China at **November 28–30, 2025**
 
 The Conference Organizer is pleased to announce that the papers presented and selected at the conference will be reviewed by the Academic Committee and recommended to the international journals as follows. Each journal will rigorously review them for possible publication.
 
-1. Transportation Research Part E (TR-E)
-2. Transport Policy (TP)
-3. International Journal of Logistics Management (IJLM)
-4. Maritime Policy & Management (MPM)
-5. Special issue of International Journal of Shipping and Transport Logistics (IJSTL)
-6. Special issue of Journal of Shipping and Trade (JST)
-7. Special issue of Sustainability
+1. **Transportation Research Part E (TR-E)**
+2. **Transport Policy (TP)**
+3. **International Journal of Logistics Management (IJLM)**
+4. **Maritime Policy & Management (MPM)**
+5. **Special issue of International Journal of Shipping and Transport Logistics (IJSTL)**
+6. **Special issue of Journal of Shipping and Trade (JST)**
+7. **Special issue of Sustainability**
    
 
 
