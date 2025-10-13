@@ -25,7 +25,8 @@ The Conference Organizer is pleased to announce that the papers presented and se
 4. Maritime Policy & Management (MPM)
 5. Special issue of International Journal of Shipping and Transport Logistics (IJSTL)
 6. Special issue of Journal of Shipping and Trade (JST)
-7. Special issue of Sustainability·
+7. Special issue of Sustainability
+   
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
