@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-we welcome the 10th annual conference of The Global Research Network Belt - Road Initiative (GRN-BRI). The GRN-BRI
+We welcome the 10th annual conference of The Global Research Network Belt - Road Initiative (GRN-BRI). The GRN-BRI
 having members from 60 institutes in 40 countries along the Belt and Road is an independent research network providing a
 global platform for researchers to share and collaborate on research projects in the field of logistics, transport,
 international trade, and supply chain [https://grn-bri.github.io/](https://grn-bri.github.io/). This yearly conference
@@ -17,9 +17,15 @@ research and strategic insights to enhance policy-making and support economic de
 GRN-BRI 2025 will be hold by the **Tangshan Institute of Southwest Jiaotong
 University**, Hebei Province, China at **November 28–30, 2025**
 
-The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals,
-such as **Transport Policy, Maritime Policy & Management, Sustainability, and the International Journal of Logistics Management** after a rigorous review process.
+The Conference Organizer is pleased to announce that the papers presented and selected at the conference will be reviewed by the Academic Committee and recommended to the international journals as follows. Each journal will rigorously review them for possible publication.
 
+1. Transportation Research Part E (TR-E)
+2. Transport Policy (TP)
+3. International Journal of Logistics Management (IJLM)
+4. Maritime Policy & Management (MPM)
+5. Special issue of International Journal of Shipping and Transport Logistics (IJSTL)
+6. Special issue of Journal of Shipping and Trade (JST)
+7. Special issue of Sustainability·
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
