@@ -23,11 +23,11 @@ The Conference Organizer is pleased to announce that the papers presented and se
 2. **Transport Policy (TP)** [journal link](https://www.sciencedirect.com/journal/transport-policy)
 3. **International Journal of Logistics Management (IJLM)** [journal link](https://www.emeraldgrouppublishing.com/journal/ijlm)
 4. **Maritime Policy & Management (MPM)**[journal link](https://www.tandfonline.com/journals/tmpm20)
-5. **Special issue of International Journal of Shipping and Transport Logistics (IJSTL)**[journal link](https://www.inderscience.com/jhome.php?jcode=ijstl)
+5. **International Journal of Shipping and Transport Logistics (IJSTL)**[journal link](https://www.inderscience.com/jhome.php?jcode=ijstl)
 6. **Special issue of Journal of Shipping and Trade (JST)**[journal link](https://jshippingandtrade.springeropen.com/)
 7. **Special issue of Sustainability** [journal link](https://www.mdpi.com/journal/sustainability/special_issues/SH1XFAQ3I9)
    
-
+**Note** The JST (Scopus) has been applied for SSCI last year. Hoping our special issue of the journal could be SSCI soon.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
