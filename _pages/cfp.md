@@ -46,7 +46,7 @@ such as Transport Policy, Maritime Policy & Management, Sustainability, and the 
 
 
 ### Conference Key Dates：
-1. Abstract submission deadline: **October 30, 2025.**
+1. Abstract submission deadline: **November 5, 2025.**
 2. Registration deadline: **November 15, 2025.**
 3. Conference dates: **November 28–30, 2025.**
 
