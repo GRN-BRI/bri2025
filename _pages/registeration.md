@@ -21,9 +21,9 @@ To participate in the conference, registration must becompleted through the on-s
 
 | Dates &nbsp;|&nbsp; Activity |
 | :--- | :--- |
-| 2025.11.28 &nbsp;|&nbsp; Registration |
-| 2025.11.29 &nbsp;|&nbsp; Main session / Parallel session |
-| 2025.11.30 &nbsp;|&nbsp; Parallel session / Industry visit |
+| November 28, 2025 &nbsp;|&nbsp; Registration |
+| November 29, 2025 &nbsp;|&nbsp; Main session / Parallel session |
+| November 30, 2025 &nbsp;|&nbsp; Parallel session / Industry visit |
  
 
 
