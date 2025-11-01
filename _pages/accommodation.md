@@ -8,14 +8,17 @@ permalink: /accommodation
 
 # Accommodation
 
+### Recommended Hotel Information
 
-[//]: # (Chunxiao Hilton: Ocean View Room RMB 450 for single breakfast &#40;RMB 510 for double breakfast&#41;, Escape Room Twin Room RMB 350 for single breakfast &#40;RMB 410 for double breakfast&#41;)
+- **Pullman Tangshan Hotel**
 
-[//]: # ()
-[//]: # (Website: [https://www.hilton.com/en/hotels/ngbncdi-doubletree-ningbo-chunxiao/]&#40;https://www.hilton.com/en/hotels/ngbncdi-doubletree-ningbo-chunxiao/&#41;)
+No. 99 South Wei Guo Road, Lubei District, Tangshan, Hebei Province, 063000, China.
 
-[//]: # ()
-[//]: # (Booking e-mail: chengjiannan@nbu.edu.cn)
+**Room Rate:** RMB 310 per night
+
+**Room Type:** One Double Bed Room / Twin Bed Room
+
+**Distance:** Approximately 10 minutes’ drive to the conference venue
 
  
 
