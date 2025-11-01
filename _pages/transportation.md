@@ -16,9 +16,9 @@ THREE MAJOR INTERNATIONAL GATEWAYS PROVIDE GLOBAL ACCESS:
 - TIANJIN BINHAI INTERNATIONAL AIRPORT (TSN):DISTANCE: 120 KM, DRIVING TIME: ABOUT 1.5 HOURS.
 
 ### Beijing Capital International Airport (PEK)
-#### Route 1: PEK→Beijing Railway Station
-#### Route 2:Beijing Railway Station→Tangshan Railway Station
-##### Route 1 Explanation:
+- Route 1: PEK→Beijing Railway Station
+- Route 2:Beijing Railway Station→Tangshan Railway Station
+#### Route 1 Explanation:
 
 **Subway [28 CNY]**
 
@@ -41,16 +41,16 @@ Pick-up point: Middle lane outside Gates 5–9 on the 1st floor.
 Terminal 3:
 Pick-up point: Taxi waiting area on B1 floor.
 
-##### Route 2 Explanation:
+#### Route 2 Explanation:
 **High-speed train[80-110 CNY]**
 
 You can register and buy tickets on the Railway 12306 APP. You need to present your passport for both registration and ticket inspection when entering the station.
 
 
 ### Beijing Daxing International Airport (PKX)
-#### Route 1: PEK→Beijing Railway Station
-#### Route 2:Beijing Railway Station→Tangshan Railway Station
-##### Route 1 Explanation:
+- Route 1: PEK→Beijing Railway Station
+- Route 2:Beijing Railway Station→Tangshan Railway Station
+#### Route 1 Explanation:
 
 **Subway [40 CNY]**
 
@@ -70,17 +70,16 @@ Pick-up Point: East side of the Middle Edge Road on the 1st floor of the Termina
 
 The taxi waiting area has two platforms: one for Beijing-bound taxis and the other for Hebei-bound taxis. The Beijing-bound platforms are on the east and west sides, with the Hebei-bound platform in the middle.
 
-##### Route 2 Explanation:
+#### Route 2 Explanation:
 **High-speed train[80-110 CNY]**
 
 You can register and buy tickets on the Railway 12306 APP. You need to present your passport for both registration and ticket inspection when entering the station.
 
 
 ### Tianjin Binhai International Airport(TSN)
-#### Route 1: TSN→Tianjin Railway Station
-#### Route 2:Tianjin Railway Station→Tangshan Railway Station
-
-##### Route 1 Explanation:
+- Route 1: TSN→Tianjin Railway Station
+- Route 2:Tianjin Railway Station→Tangshan Railway Station
+#### Route 1 Explanation:
 
 **Subway [3 CNY]**
 
@@ -95,7 +94,7 @@ Pick-up Point: Located on the east side of Island A in the Traffic Center of the
 
 Pick-up Point: Located outside Gates 5-6 of the Arrival Hall on the 1st floor of the Terminal Building.
 
-##### Route 2 Explanation:
+#### Route 2 Explanation:
 **High-speed train[40-60 CNY]**
 
 You can register and buy tickets on the Railway 12306 APP. You need to present your passport for both registration and ticket inspection when entering the station.
