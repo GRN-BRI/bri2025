@@ -10,7 +10,7 @@ permalink: /accommodation
 
 ### Recommended Hotel Information
 
-- **Pullman Tangshan Hotel**
+#### Pullman Tangshan Hotel
 
 No. 99 South Wei Guo Road, Lubei District, Tangshan, Hebei Province, 063000, China.
 
