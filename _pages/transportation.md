@@ -18,6 +18,7 @@ THREE MAJOR INTERNATIONAL GATEWAYS PROVIDE GLOBAL ACCESS:
 ### Beijing Capital International Airport (PEK)
 - Route 1: PEK→Beijing Railway Station
 - Route 2:Beijing Railway Station→Tangshan Railway Station
+
 #### Route 1 Explanation:
 
 **Subway [28 CNY]**
@@ -50,6 +51,7 @@ You can register and buy tickets on the Railway 12306 APP. You need to present y
 ### Beijing Daxing International Airport (PKX)
 - Route 1: PEK→Beijing Railway Station
 - Route 2:Beijing Railway Station→Tangshan Railway Station
+
 #### Route 1 Explanation:
 
 **Subway [40 CNY]**
@@ -79,6 +81,7 @@ You can register and buy tickets on the Railway 12306 APP. You need to present y
 ### Tianjin Binhai International Airport(TSN)
 - Route 1: TSN→Tianjin Railway Station
 - Route 2:Tianjin Railway Station→Tangshan Railway Station
+
 #### Route 1 Explanation:
 
 **Subway [3 CNY]**
