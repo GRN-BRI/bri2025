@@ -1,7 +1,7 @@
 ---
-title: "GRN-BRI - Publications"
+title: "GRN-BRI - keynote"
 layout: gridlay
-excerpt: "GRN-BRI -- Publications."
+excerpt: "GRN-BRI -- keynote."
 sitemap: false
 permalink: /keynote/
 ---
