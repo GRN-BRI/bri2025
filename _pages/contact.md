@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - Contact Us"
+title: "GRN-BRI - Contact Us"
 layout: default
-excerpt: "Logms - Contact Us."
+excerpt: "GRN-BRI - Contact Us."
 sitemap: false
 permalink: /contact
 ---

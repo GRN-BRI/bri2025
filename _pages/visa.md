@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - visa"
+title: "GRN-BRI - visa"
 layout: textlay
-excerpt: "Logms -- visa"
+excerpt: "GRN-BRI -- visa"
 sitemap: false
 permalink: /visa
 ---

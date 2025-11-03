@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - venue"
+title: "GRN-BRI - venue"
 layout: textlay
-excerpt: "Logms -- venue"
+excerpt: "GRN-BRI -- venue"
 sitemap: false
 permalink: /venue
 ---

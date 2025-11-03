@@ -1,7 +1,7 @@
 ---
-title: "CIEG - Pictures"
+title: "GRN-BRI - Pictures"
 layout: piclay
-excerpt: "CIEG -- Pictures"
+excerpt: "GRN-BRI -- Pictures"
 permalink: /pictures/
 ---
 

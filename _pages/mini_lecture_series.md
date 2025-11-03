@@ -1,7 +1,7 @@
 ---
-title: "CIEG - AOA"
+title: "GRN-BRI - AOA"
 layout: textlay
-excerpt: "AOA"
+excerpt: "GRN-BRI"
 sitemap: false
 permalink: /aoa.html
 ---

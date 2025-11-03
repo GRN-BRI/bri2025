@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - accommodation"
+title: "GRN-BRI - accommodation"
 layout: textlay
-excerpt: "Logms -- accommodation"
+excerpt: "GRN-BRI -- accommodation"
 sitemap: false
 permalink: /accommodation
 ---

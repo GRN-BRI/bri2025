@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - Special Program"
+title: "GRN-BRI - Special Program"
 layout: textlay
-excerpt: "Logms -- Special Program"
+excerpt: "GRN-BRI -- Special Program"
 sitemap: false
 permalink: /program
 ---

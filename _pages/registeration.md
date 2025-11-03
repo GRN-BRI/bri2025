@@ -1,7 +1,7 @@
 ---
-title: "Registeration"
+title: "GRN-BRI - Registeration"
 layout: textlay
-excerpt: "registeration"
+excerpt: "GRN-BRI registeration"
 sitemap: false
 permalink: /registeration
 ---

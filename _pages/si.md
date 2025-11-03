@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - Special issue"
+title: "GRN-BRI - Special issue"
 layout: textlay
-excerpt: "Logms -- Special issue"
+excerpt: "GRN-BRI -- Special issue"
 sitemap: false
 permalink: /si
 ---

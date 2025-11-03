@@ -1,7 +1,7 @@
 ---
 title: "GRN-BRI - Home"
 layout: homelay
-excerpt: "LOGMS conference."
+excerpt: "GRN-BRI -- home."
 sitemap: false
 permalink: /
 ---

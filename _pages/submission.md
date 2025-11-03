@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - submission"
+title: "GRN-BRI - submission"
 layout: default
-excerpt: "Logms - submission"
+excerpt: "GRN-BRI - submission"
 sitemap: false
 permalink: /submission
 ---

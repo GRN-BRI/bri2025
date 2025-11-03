@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - transportation"
+title: "GRN-BRI - transportation"
 layout: textlay
-excerpt: "Logms -- transportation"
+excerpt: "GRN-BRI -- transportation"
 sitemap: false
 permalink: /transportation
 ---

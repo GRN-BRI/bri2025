@@ -1,7 +1,7 @@
 ---
-title: "CIEG - Publications"
+title: "GRN-BRI - Publications"
 layout: gridlay
-excerpt: "CIEG -- Publications."
+excerpt: "GRN-BRI -- Publications."
 sitemap: false
 permalink: /keynote/
 ---

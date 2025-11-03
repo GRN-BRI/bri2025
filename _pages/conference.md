@@ -1,7 +1,7 @@
 ---
-title: "LOGMS - conference"
+title: "GRN-BRI - conference"
 layout: gridlay
-excerpt: "LOGMS: conference"
+excerpt: "GRN-BRI: conference"
 sitemap: false
 permalink: /conference/
 ---
